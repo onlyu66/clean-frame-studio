@@ -1,0 +1,6 @@
+{
+  "name": "CleanFrame Studio",
+  "description": "Storyboard JSON to clean, text-free scene image generator powered by Gemini 3 Pro Image Preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
